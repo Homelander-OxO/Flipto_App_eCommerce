@@ -1,12 +1,12 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_app/API%20E-Commerce/Model/profile_model.dart';
+import 'package:flutter_app/models/profile_model.dart';
 import 'package:flutter_app/Utilities/api_service.dart';
 import 'package:flutter_app/Utilities/ai.dart';
 import 'package:flutter_app/Utilities/fcm.dart';
 import 'package:flutter_app/Authentication/google_auth.dart';
-import 'package:flutter_app/API%20E-Commerce/Screen/home_page.dart';
+import 'package:flutter_app/screens/home_page.dart';
 import 'package:flutter_app/Utilities/bottom_navigation.dart';
 import 'package:flutter_app/Utilities/provider.dart';
 import 'package:flutter_app/config/app_config.dart';

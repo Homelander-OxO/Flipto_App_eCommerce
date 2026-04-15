@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/API%20E-Commerce/Screen/cart_page.dart';
+import 'package:flutter_app/screens/cart_page.dart';
 import 'package:flutter_app/Utilities/bottom_navigation.dart';
 import 'package:flutter_app/custom_widgets/custom_route.dart';
 import 'package:google_fonts/google_fonts.dart';
