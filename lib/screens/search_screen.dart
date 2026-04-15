@@ -1,16 +1,16 @@
 import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter_app/models/e-subcategory_model.dart';
-import 'package:flutter_app/screens/product_screen.dart';
-import 'package:flutter_app/Utilities/api_service.dart';
-import 'package:flutter_app/screens/search_result.dart';
 import 'package:flutter_app/config/app_config.dart';
 import 'package:flutter_app/custom_widgets/custom_route.dart';
+import 'package:flutter_app/screens/product_screen.dart';
+import 'package:flutter_app/screens/search_result.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../Utilities/provider.dart';
+import '../models/e-subcategory_model.dart';
+import '../utilities/api_service.dart';
 
 class SearchScreen100 extends StatefulWidget {
   const SearchScreen100({Key? key}) : super(key: key);

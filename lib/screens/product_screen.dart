@@ -4,7 +4,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_app/models/e-subcategory_model.dart';
 import 'package:flutter_app/models/rating_model.dart';
-import 'package:flutter_app/screens/s.dart';
 import 'package:flutter_app/Utilities/api_service.dart';
 import 'package:flutter_app/Utilities/ai.dart';
 import 'package:flutter_app/screens/cart_page.dart';
