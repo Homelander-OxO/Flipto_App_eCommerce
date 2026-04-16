@@ -123,22 +123,6 @@ class _OtpVerificationScreenState extends State<OtpVerificationScreen> {
                 'assets/images/otp.png',
                 scale: 1,
               ),
-              // Illustration
-              // Container(
-              //   width: 200,
-              //   height: 200,
-              //   decoration: BoxDecoration(
-              //     color: Color(0xFFF5F7FF),
-              //     borderRadius: BorderRadius.circular(100),
-              //   ),
-              //   child: Icon(
-              //     Icons.verified_user_rounded,
-              //     size: 80,
-              //     color: Color(0xFF101D42),
-              //   ),
-              // ),
-              //
-              // const SizedBox(height: 32),
 
               // Title
               Text(
